@@ -10,7 +10,7 @@ Authors@R: c(
     )
   )
 Description: Provides customizable diagnostic plots for comparing genetic association summary statistics across samples. 
-	Includes V-V plots and modified Bland-Altman plots for assessing genetic homogeneity using GWAS summary data
+	Includes V-V plots and modified Bland-Altman plots for assessing genetic homogeneity using GWAS summary data.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
