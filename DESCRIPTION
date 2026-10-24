@@ -1,16 +1,16 @@
-Package: MRdiagplots
+Package: gendiagplots
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Diagnostic Plots for Genetic Association Studies
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "Grace", "Wang",
+      email = "gracezwang1@gmail.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Description: Provides customizable diagnostic plots for comparing genetic association summary statistics across samples. 
+	Includes V-V plots and modified Bland-Altman plots for assessing genetic homogeneity using GWAS summary data
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
