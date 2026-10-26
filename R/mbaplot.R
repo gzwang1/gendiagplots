@@ -29,6 +29,7 @@ mBAplot <- function (b.x, se.x, n.x, b.y, se.y, n.y, k.x = 0, k.y = 0,
                color = point_color,
                shape = point_shape) +
     geom_abline(intercept = 0,
+                slope = 0,
                 color = line_color,
                 lwd = line_width,
                 lty = line_type) +
